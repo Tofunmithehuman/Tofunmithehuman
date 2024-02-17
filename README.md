@@ -1,4 +1,4 @@
-<h1 align="center">I'm Oluwatofunmi Bolaji Ashraf</h1>
+<h1 align="center">I'm Bolaji Oluwatofunmi Ashraf</h1>
 <h3 align="center">Full-stack Developer (MERN)</h3>
 
 <p align="left"> <a href="https://twitter.com/tofunmithehuman" target="blank"><img src="https://img.shields.io/twitter/follow/tofunmithehuman?logo=twitter&style=for-the-badge" alt="tofunmithehuman" /></a> </p>
