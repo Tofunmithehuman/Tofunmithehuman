@@ -4,10 +4,10 @@
 - How to reach me **tofunmibolaji13@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<a href='https://developer.mozilla.org/en-US/docs/Learn/HTML' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://developer.mozilla.org/en-US/docs/Learn/CSS' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=black'/></a>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tofunmithehuman&show_icons=true&locale=en&layout=compact" alt="tofunmithehuman" /></p>
