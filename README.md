@@ -14,10 +14,11 @@
 <a href='https://expressjs.com/' target="_blank"><img alt='express' src='https://img.shields.io/badge/EXPRESS.js-100000?style=for-the-badge&logo=express&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://www.mongodb.com/' target="_blank"><img alt='MONGODB' src='https://img.shields.io/badge/mongodb-100000?style=for-the-badge&logo=MONGODB&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://mongoosejs.com/docs/' target="_blank"><img alt='mongoose' src='https://img.shields.io/badge/mongoosejs-100000?style=for-the-badge&logo=mongoose&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/' target="_blank"><img alt='csharp' src='https://img.shields.io/badge/cSHARP-100000?style=for-the-badge&logo=csharp&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tofunmithehuman&show_icons=true&locale=en&layout=compact" alt="tofunmithehuman" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tofunmithehuman&show_icons=true&theme=dark&locale=en&layout=compact" alt="tofunmithehuman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tofunmithehuman&show_icons=true&locale=en" alt="tofunmithehuman" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tofunmithehuman&" alt="tofunmithehuman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tofunmithehuman&show_icons=true&theme=dark&locale=en" alt="tofunmithehuman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tofunmithehuman&theme=dark&" alt="tofunmithehuman" /></p>
