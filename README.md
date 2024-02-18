@@ -7,6 +7,13 @@
 <a href='https://developer.mozilla.org/en-US/docs/Learn/HTML' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://developer.mozilla.org/en-US/docs/Learn/CSS' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://getbootstrap.com/' target="_blank"><img alt='Bootstrap' src='https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://react.dev/' target="_blank"><img alt='REACT' src='https://img.shields.io/badge/REACT-100000?style=for-the-badge&logo=REACT&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://redux.js.org/' target="_blank"><img alt='Redux' src='https://img.shields.io/badge/REDUX-100000?style=for-the-badge&logo=Redux&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://nodejs.org/en' target="_blank"><img alt='node.js' src='https://img.shields.io/badge/Node.js-100000?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://expressjs.com/' target="_blank"><img alt='express' src='https://img.shields.io/badge/EXPRESS.js-100000?style=for-the-badge&logo=express&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://www.mongodb.com/' target="_blank"><img alt='MONGODB' src='https://img.shields.io/badge/mongodb-100000?style=for-the-badge&logo=MONGODB&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://mongoosejs.com/docs/' target="_blank"><img alt='mongoose' src='https://img.shields.io/badge/mongoosejs-100000?style=for-the-badge&logo=mongoose&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
