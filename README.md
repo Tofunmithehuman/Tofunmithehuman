@@ -1,7 +1,7 @@
 <h1 align="center">I'm Bolaji Oluwatofunmi Ashraf</h1>
 <h3 align="center">Full-stack Developer (MERN)</h3>
 
-<a href="tofunmithehuman.vercel.app" target="_blank">**Tofunmithehuman.dev**</a>
+<a align="center" href="https://tofunmithehuman.vercel.app/" target="_blank">**Tofunmithehuman.dev**</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href='https://developer.mozilla.org/en-US/docs/Learn/HTML' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black&color=black'/></a>
