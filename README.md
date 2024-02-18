@@ -3,6 +3,12 @@
 
 <h4 align="center"><a href="https://tofunmithehuman.vercel.app/" target="_blank">Tofunmithehuman.dev</a></h4>
 
+<h3 align="left">About Tofunmithehuman:</h3>
+<p align="left">I specialize in building dynamic and responsive web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). With a strong foundation in front-end and back-end development, I'm dedicated to creating efficient, user-friendly, and scalable solutions that meet clients' needs.</p>
+
+<h3 align="left">Portfolio Highlights:</h3>
+<p align="left">Explore my repository to find a diverse range of projects showcasing my skills and expertise in full-stack web development. From e-commerce platforms to social media applications, each project demonstrates my commitment to clean code, robust architecture, and intuitive user interfaces.</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <a href='https://developer.mozilla.org/en-US/docs/Learn/HTML' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://developer.mozilla.org/en-US/docs/Learn/CSS' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=black&color=black'/></a>
@@ -19,5 +25,4 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tofunmithehuman&show_icons=true&theme=dark&locale=en&layout=compact" alt="tofunmithehuman" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tofunmithehuman&theme=dark&" alt="tofunmithehuman" /></p>
