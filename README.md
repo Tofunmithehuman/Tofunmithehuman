@@ -23,6 +23,8 @@
 <a href='https://www.mongodb.com/' target="_blank"><img alt='MONGODB' src='https://img.shields.io/badge/mongodb-100000?style=for-the-badge&logo=MONGODB&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://mongoosejs.com/docs/' target="_blank"><img alt='mongoose' src='https://img.shields.io/badge/mongoosejs-100000?style=for-the-badge&logo=mongoose&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/' target="_blank"><img alt='csharp' src='https://img.shields.io/badge/cSHARP-100000?style=for-the-badge&logo=csharp&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://git-scm.com/' target="_blank" rel="noreferrer"><img alt='git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/' target="_blank" rel="noreferrer"><img alt='github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
