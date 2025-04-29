@@ -1,13 +1,10 @@
 <h1 align="center">I'm Bolaji Oluwatofunmi Ashraf</h1>
-<h3 align="center">Full-stack Developer (MERN)</h3>
+<h3 align="center">FullStack Developer</h3>
 
-<h4 align="center"><a href="https://tofunmithehuman.vercel.app/" target="_blank">Tofunmithehuman.dev</a></h4>
+<h4 align="center"><a href="https://tofunmithehuman-portfolio.vercel.app/" target="_blank">Tofunmithehuman.com</a></h4>
 
 <h3 align="left">About Tofunmithehuman:</h3>
-<p align="left">I specialize in building dynamic and responsive web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). With a strong foundation in front-end and back-end development, I'm dedicated to creating efficient, user-friendly, and scalable solutions that meet clients' needs.</p>
-
-<h3 align="left">Portfolio Highlights:</h3>
-<p align="left">Explore my repository to find a diverse range of projects showcasing my skills and expertise in full-stack web development. From e-commerce platforms to social media applications, each project demonstrates my commitment to clean code, robust architecture, and intuitive user interfaces.</p>
+<p align="left">Dynamic and results-driven Full Stack Developer with over four years of experience building scalable web applications and delivering innovative solutions. Proficient in modern JavaScript frameworks, TypeScript, and C#, with expertise in creating seamless user experiences and robust backend systems. Adept at leveraging tools like Docker, Postman, and Git to streamline development workflows. Passionate about writing clean, maintainable code and collaborating cross-functionally to drive business success.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href='https://developer.mozilla.org/en-US/docs/Learn/HTML' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black&color=black'/></a>
