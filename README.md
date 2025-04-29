@@ -21,6 +21,7 @@
 <a href='https://git-scm.com/' target="_blank" rel="noreferrer"><img alt='git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://github.com/' target="_blank" rel="noreferrer"><img alt='github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
 
+<br />
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tofunmithehuman&show_icons=true&theme=dark&locale=en&layout=compact" alt="tofunmithehuman" /></p>
