@@ -11,6 +11,7 @@
 <a href='https://developer.mozilla.org/en-US/docs/Learn/CSS' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://developer.mozilla.org/en-US/docs/Web/TypeScript' target="_blank"><img alt='typescript' src='https://img.shields.io/badge/Typescript-100000?style=for-the-badge&logo=Typescript&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/' target="_blank"><img alt='csharp' src='https://img.shields.io/badge/cSHARP-100000?style=for-the-badge&logo=csharp&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://tailwindcss.com/' target="_blank"><img alt='Tailwind CSS' src='https://img.shields.io/badge/Tailwindcss-100000?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://react.dev/' target="_blank"><img alt='REACT' src='https://img.shields.io/badge/REACT-100000?style=for-the-badge&logo=REACT&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://redux.js.org/' target="_blank"><img alt='Redux' src='https://img.shields.io/badge/REDUX-100000?style=for-the-badge&logo=Redux&logoColor=white&labelColor=black&color=black'/></a>
@@ -18,7 +19,6 @@
 <a href='https://expressjs.com/' target="_blank"><img alt='express' src='https://img.shields.io/badge/EXPRESS.js-100000?style=for-the-badge&logo=express&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://www.mongodb.com/' target="_blank"><img alt='MONGODB' src='https://img.shields.io/badge/mongodb-100000?style=for-the-badge&logo=MONGODB&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://mongoosejs.com/docs/' target="_blank"><img alt='mongoose' src='https://img.shields.io/badge/mongoosejs-100000?style=for-the-badge&logo=mongoose&logoColor=white&labelColor=black&color=black'/></a>
-<a href='https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/' target="_blank"><img alt='csharp' src='https://img.shields.io/badge/cSHARP-100000?style=for-the-badge&logo=csharp&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://git-scm.com/' target="_blank" rel="noreferrer"><img alt='git' src='https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://github.com/' target="_blank" rel="noreferrer"><img alt='github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
 
