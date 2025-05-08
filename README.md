@@ -10,6 +10,7 @@
 <a href='https://developer.mozilla.org/en-US/docs/Learn/HTML' target="_blank"><img alt='HTML5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://developer.mozilla.org/en-US/docs/Learn/CSS' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/Javascript-100000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://developer.mozilla.org/en-US/docs/Web/TypeScript' target="_blank"><img alt='typescript' src='https://img.shields.io/badge/Typescript-100000?style=for-the-badge&logo=Typescript&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://tailwindcss.com/' target="_blank"><img alt='Tailwind CSS' src='https://img.shields.io/badge/Tailwindcss-100000?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://react.dev/' target="_blank"><img alt='REACT' src='https://img.shields.io/badge/REACT-100000?style=for-the-badge&logo=REACT&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://redux.js.org/' target="_blank"><img alt='Redux' src='https://img.shields.io/badge/REDUX-100000?style=for-the-badge&logo=Redux&logoColor=white&labelColor=black&color=black'/></a>
